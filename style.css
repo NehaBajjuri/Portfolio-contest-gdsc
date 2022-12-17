@@ -1,4 +1,4 @@
-@import url('https://img.freepik.com/premium-vector/programming-engineering-development-tiny-girl-programmer-developer-create-code-programming_501813-507.jpg?w=740');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;500&display=swap');
 :root{
     --primary-color:#3b82f6;
     --dark-gray:#6b7280;
@@ -58,8 +58,7 @@ h2{
     padding-top:0.2rem;
     padding-bottom: 0.2rem;
     padding-right:2rem;
-    font-family:cursive;
-     
+    font-family: 'Open Sans', sans-serif;
 }
 img{
     height: 120px;
