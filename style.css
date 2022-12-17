@@ -1,0 +1,251 @@
+@import url('https://img.freepik.com/premium-vector/programming-engineering-development-tiny-girl-programmer-developer-create-code-programming_501813-507.jpg?w=740');
+:root{
+    --primary-color:#3b82f6;
+    --dark-gray:#6b7280;
+    --off-white:#d1d5db;
+}
+.main-img{
+    height: 550px;
+    width:550px
+}
+body{
+    /* background-image: url("https://img.freepik.com/free-vector/white-digital-matrix-binary-code-numbers-background_1017-25332.jpg?w=996&t=st=1670864329~exp=1670864929~hmac=c3bf06e0b5c5cd42e704ffb70f29a80d3799e200bf3b2befffeb6cdb0ed7aa6b");
+    /* background-image: url("https://img.freepik.com/premium-vector/programming-engineering-development-tiny-girl-programmer-developer-create-code-programming_501813-507.jpg?size=626&ext=jpgz"); */
+   /* background-repeat: no-repeat;
+   border-image: 2px;
+   background-size:cover;  */
+ background-color:white;
+}
+header{
+    background-image:url("https://img.freepik.com/free-vector/css-html-programming-languages-computer-programming-coding-it-female-programmer-cartoon-character-software-website-development_335657-2323.jpg?size=338&ext=jpg"),url("https://tse2.mm.bing.net/th?id=OIP.zgkCcrVfv02ft5dffc7yhAHaH1&pid=Api&P=0"),url("https://i.pinimg.com/originals/6c/6c/8c/6c6c8c7406661477999305c27c820091.jpg");
+    background-position: center,left top,right top;
+    border-image:2px;
+background-repeat:no-repeat;
+    display:block;
+     background-size:150px 150px;
+    padding-left: 3rem;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#main-list{
+    padding-top:2.5rem;
+    padding-left: 65rem;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#list{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    color:blue;
+}
+h2{
+    text-align: center;
+    font-size:xx-large;
+    color:#3b82f6;
+    border-color:black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#intro
+{
+    background-color:#3b82f6;
+    color: white;
+    border-radius: 0.5rem;
+    font-size: large;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-left: 2rem;
+    padding-top:0.2rem;
+    padding-bottom: 0.2rem;
+    padding-right:2rem;
+    font-family:cursive;
+     
+}
+img{
+    height: 120px;
+    padding-left: 40rem;
+    padding-bottom: 2rem;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    display: block;
+
+}
+
+#images
+{
+    background-image: url("https://thumbs.dreamstime.com/b/binary-code-white-background-algorithm-encryption-encoding-matrix-67290567.jpg");
+    background-size: cover;
+
+}
+#project-img
+{
+    height: 140px;
+    padding-left: 37rem;
+    padding-bottom: 2rem;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    display: block;
+    
+
+}
+
+/* 
+#birth{
+    background-image: url("https://png.pngtree.com/png-vector/20190320/ourlarge/pngtree-party-popper-png-image_850319.jpg");
+background-color:var(--off-white);
+background-position: left;
+background-repeat:no-repeat;
+
+} */
+
+.section{
+    padding: 2rem;
+    border: #3b82f6;
+    margin-bottom: 2rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+.section div{
+    margin-top: 1rem;
+    
+}
+.primary-link{
+    background-color: var(--primary-color);
+    border-radius: 1rem;
+    color:white; 
+    margin-left: 1rem;
+    margin-right: 2rem;
+    border: 0.5px solid var(--primary-color);
+}
+.secondary-link{
+   margin-top : 2rem;
+    border-radius: 1rem;
+    border: 0.5px solid var(--primary-color);
+    color:var(--primary-color);
+}
+.container{
+    padding-left:0rem;
+    padding-right:1rem;
+}
+.container-center{
+   display: block;
+    margin:auto;
+}
+.small{
+    text-align: center;
+    font-size: medium;
+   display :block;
+}
+h1{
+    font-size: x-large;
+ 
+}
+.center{
+    text-align: center;
+    margin-top: 0.5rem;
+    display: block;
+}
+
+
+.section{
+    padding: 2rem;
+    border: #3b82f6;
+    margin-bottom: 2rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+.section div{
+    margin-top: 1rem;
+}
+.section h1{
+    text-align: center; 
+
+}
+.section p{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.div {
+    background-color: var(--off-white);
+    border: #3b82f6;
+    
+}
+.footer{
+    background-color:var(--primary-color);
+    padding:2rem 1rem;
+    text-align: center;
+    color:white;
+    border-top-right-radius: 1.5rem;
+    border-bottom-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    border-top-left-radius: 1.5rem;
+
+}
+
+.img{
+        padding: 0.5rem;
+        max-width:4%;
+       border-radius:  7rem;
+        height:auto;
+    
+}
+
+
+.list-item-inline{
+    display: inline;
+    padding: 0rem 0.5rem;
+    font-size: larger;
+    text-decoration: underline;
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/**spaces**/
+.paddingg{
+    padding: 2rem;
+    padding-top: 5rem;
+}
+.link{
+    text-decoration:none;
+    padding:0.5rem 2rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin: auto;
+    margin-bottom: 1.5rem;
+}
+.img-social
+{
+    display:inline;
+    list-style: none;
+}
+.footer .link{
+    color:white;
+    padding:0rem 0rem;
+}
+.footer ul{
+    padding-inline-start: 0px;
+}
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
+}
+.mail{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 0.2rem;
+    padding-bottom: 0.1rem;
+    
+}
+.mobile{
+    padding-top: 0.4rem;
+}
+li{
+    list-style-type: none;
+    display: inline;
+}
